@@ -19,4 +19,4 @@ See [`data/README.md`](./data/README.md) for full description of the synthetic d
 Python >=3.10, recommended 3.11~3.14
 
 ## Example Output
-
+![Simulated astronomical image with star sources and noise](output/colorIdx_fit.png)
