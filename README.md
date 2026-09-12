@@ -13,7 +13,7 @@ Key use cases:
 
 ## dataset
 Synthetic filter transmission, LAMOST Stellar Classification Template, Gaia G, BP, and RP filter transmissions are used in this work.
-See [`data/README.md`](./data/README.md) for full description of the synthetic data generation.
+See [`data/README.md`](./instMagSim/data/README.md) for full description of the synthetic data generation.
 
 ## Requirements
 Python >=3.10, recommended 3.11~3.14
